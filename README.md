@@ -8,3 +8,12 @@ git add .
 git commit -m ""
 git push
 
+
+
+
+# 分支
+
+
+git branch yang
+git checkout yang
+
